@@ -1,0 +1,8 @@
+[
+  {
+    "remote":	   "TeamWin",
+    "repository":  "android_device_samsung_exynos_common"
+    "target_path": "device/samsung/exynos-common"
+    "revision":	   "android-10"
+  }
+]
