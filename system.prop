@@ -1,3 +1,8 @@
 ro.display.series=Xcover 4s
 ro.product.board=exynos7885
 ro.board.platform=exynos7885
+ro.hardware=samsungexynos7885
+ro.chipname=exynos7885
+ro.arch=exynos7885
+ro.boot.bootdevice=13500000.dwmmc0
+ro.sf.lcd_density=320
