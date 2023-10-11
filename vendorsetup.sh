@@ -1,0 +1,2 @@
+add_lunch_combo samsung_xcover4s-eng
+add_lunch_combo samsung_xcover4s-userdebug
